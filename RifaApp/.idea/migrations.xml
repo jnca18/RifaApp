@@ -3,11 +3,7 @@
   <component name="ProjectMigrations">
     <option name="MigrateToGradleLocalJavaHome">
       <set>
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$" />
-=======
-        <option value="$PROJECT_DIR$/RifaApp" />
->>>>>>> 45c377ec59664a0fb695aca3e2af6204803ad01e
       </set>
     </option>
   </component>

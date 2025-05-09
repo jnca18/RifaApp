@@ -4,24 +4,15 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="testRunner" value="CHOOSE_PER_TEST" />
-<<<<<<< HEAD
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-=======
-        <option name="externalProjectPath" value="$PROJECT_DIR$/RifaApp" />
-        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/RifaApp" />
-            <option value="$PROJECT_DIR$/RifaApp/app" />
->>>>>>> 45c377ec59664a0fb695aca3e2af6204803ad01e
           </set>
         </option>
+        <option name="resolveExternalAnnotations" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
